@@ -6,6 +6,8 @@
 
 
   <ItemGroup>
-    <Folder Include="Controllers\Model\" />
+    <Folder Include="Model\" />
+    <Folder Include="Services\" />
+    <Folder Include="Services\Implementattions\" />
   </ItemGroup>
 </Project>
